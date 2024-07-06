@@ -37,7 +37,7 @@ default_terms_csv = "terms_template_LOM1.csv"
 app_title = "DIY AI-enhanced study app for biologists"
 
 # The subtitle of the app
-app_author = "courtesy of UCSD School of Biological Sciences"
+app_author = "Liam O'Connor Mueller"
 
 # This is an intro paragraph you can add under the title. it is not currently being used in the app.
 intro_para = " "
